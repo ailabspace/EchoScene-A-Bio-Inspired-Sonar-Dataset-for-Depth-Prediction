@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  EchoScene: A Bio-Inspired Sonar Dataset for Depth prediction
+  EchoScene: A Bio-Inspired Sonar Dataset for Depth Prediction
 </h1>
 
 ### ACCV 2026 🇯🇵🏯
