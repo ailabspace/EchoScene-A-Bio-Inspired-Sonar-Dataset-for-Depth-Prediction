@@ -4,7 +4,7 @@
   EchoScene: A Bio-Inspired Sonar Dataset for Depth prediction
 </h1>
 
-### ACCV 2026 
+### ACCV 2026 🇯🇵🏯
 
 <a href="https://www.linkedin.com/in/nz-ismail">Nazrul Ismail</a><sup>1,2</sup>,
 <a href="https://www.linkedin.com/in/muhd-amirul-raziq-hj-rosman-511b09299/">Muhammad Amirul Raziq Rosman</a><sup>1,2</sup>,
