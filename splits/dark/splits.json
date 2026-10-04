@@ -1,0 +1,19 @@
+{
+ "policy": "dark floors (lights off), evaluation only: every window of the three block_b dark recordings",
+ "train": {
+  "files": [],
+  "n_windows": 0
+ },
+ "val": {
+  "files": [],
+  "n_windows": 0
+ },
+ "test": {
+  "files": [
+   "block_b_1f_dark__biosonar_lab_fix.h5",
+   "block_b_2f_dark__biosonar_lab_fix.h5",
+   "block_b_3f_dark__biosonar_lab_fix.h5"
+  ],
+  "n_windows": 2080
+ }
+}

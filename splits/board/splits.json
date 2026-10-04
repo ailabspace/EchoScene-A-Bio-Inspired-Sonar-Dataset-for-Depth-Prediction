@@ -1,0 +1,61 @@
+{
+ "policy": "all2 per-echo corpus; held-out test floor = block_d_3f (3 recordings), val = original all2 val (block_c_1f + a<->d bridge), train = the rest",
+ "audio_win_s": 0.15,
+ "train": {
+  "files": [
+   "block_a_2f.h5",
+   "block_a_2f_2.h5",
+   "block_b_1f_1.h5",
+   "block_b_1f_1_r3.h5",
+   "block_b_1f_2.h5",
+   "block_b_1f_3.h5",
+   "block_b_2f_1.h5",
+   "block_b_2f_7.h5",
+   "block_b_2f_8.h5",
+   "block_b_2f_9.h5",
+   "block_b_3f_1.h5",
+   "block_b_3f_2.h5",
+   "block_b_d_1f.h5",
+   "block_b_d_1f_1.h5",
+   "block_b_d_1f_2.h5",
+   "block_c_2f_1.h5",
+   "block_c_2f_2.h5",
+   "block_c_2f_3.h5",
+   "block_c_3f_1_r3.h5",
+   "block_c_3f_1f.h5",
+   "block_c_3f_2.h5",
+   "block_c_d_1.h5",
+   "block_d_1f_office_1.h5",
+   "block_d_1f_office_2.h5",
+   "block_d_1f_office_3.h5",
+   "block_d_1f_office_out.h5",
+   "block_d_2f_3f.h5",
+   "block_d_b_1.h5",
+   "block_d_b_2f_1.h5",
+   "block_d_c_1f_1.h5",
+   "block_d_stairs_4f.h5"
+  ],
+  "n_windows": 12307
+ },
+ "val": {
+  "files": [
+   "block_a_d_2f.h5",
+   "block_c_1f.h5",
+   "block_c_1f_1.h5",
+   "block_c_1f_2.h5",
+   "block_c_1f_2_r3.h5",
+   "block_c_1f_3.h5",
+   "block_c_1f_3f.h5",
+   "block_d_a_2f.h5"
+  ],
+  "n_windows": 4874
+ },
+ "test": {
+  "files": [
+   "block_d_3f.h5",
+   "block_d_3f_2.h5",
+   "block_d_3f_3.h5"
+  ],
+  "n_windows": 2114
+ }
+}

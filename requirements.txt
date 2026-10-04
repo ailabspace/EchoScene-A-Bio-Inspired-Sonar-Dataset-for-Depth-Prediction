@@ -1,0 +1,4 @@
+-r third_party/Visual2Echo/requirements.txt
+huggingface_hub
+git+https://github.com/microsoft/MoGe.git
+git+https://github.com/ByteDance-Seed/Depth-Anything-3.git

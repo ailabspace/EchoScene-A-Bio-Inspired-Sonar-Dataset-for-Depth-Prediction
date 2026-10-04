@@ -1,0 +1,3 @@
+[submodule "third_party/Visual2Echo"]
+	path = third_party/Visual2Echo
+	url = https://github.com/ailabspace/Visual2Echo-Compositional-Contrastive-Learning-for-Depth-Prediction.git
