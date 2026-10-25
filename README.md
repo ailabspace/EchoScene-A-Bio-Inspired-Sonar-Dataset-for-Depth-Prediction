@@ -8,14 +8,14 @@
 
 <a href="https://www.linkedin.com/in/nz-ismail">Nazrul Ismail</a><sup>1,2</sup>,
 <a href="https://www.linkedin.com/in/muhd-amirul-raziq-hj-rosman-511b09299/">Muhammad Amirul Raziq Rosman</a><sup>1,2</sup>,
-Owais Ahmed Malik<sup>3</sup>,
+<a href="https://www.linkedin.com/in/owais-ahmed-malik-45a3aa15/">Owais Ahmed Malik</a><sup>3</sup>,
 <a href="https://ailab.space/">Ong Wee Hong</a><sup>1,2</sup>
 
 <sup>1</sup>School of Digital Science, Universiti Brunei Darussalam<br>
 <sup>2</sup>Robotics and Intelligent Systems Laboratory (RoboLab)<br>
 <sup>3</sup>Atlantic Technological University<br>
 
-[![CVF - Coming Soon](https://img.shields.io/badge/CVF-Coming_Soon-yellow?logo=ieee&logoColor=white)](#)
+[![CVF - Coming Soon](https://img.shields.io/badge/CVF-Coming_Soon-yellow?logo=logoColor=white)](#)
 [![Dataset Status](https://img.shields.io/badge/Dataset-Upon_Request_(Filtering_Scenes)-yellow?logo=database&logoColor=white)](#dataset) </div>
 ---
 
@@ -35,8 +35,8 @@ input at test time. By releasing aligned acoustic and visual modalities, EchoSce
 The training code is the official [V2E-CCL](https://github.com/ailabspace/Visual2Echo-Compositional-Contrastive-Learning-for-Depth-Prediction) release, pulled in as a git submodule under `third_party/Visual2Echo`.
 
 ```bash
-git clone --recursive https://github.com/ailabspace/SonarScene-A-Bio-Inspired-Sonar-Dataset-for-Depth-prediction.git
-cd SonarScene-A-Bio-Inspired-Sonar-Dataset-for-Depth-prediction
+git clone --recursive https://github.com/ailabspace/EchoScene-A-Bio-Inspired-Sonar-Dataset-for-Depth-prediction.git
+cd EchoScene-A-Bio-Inspired-Sonar-Dataset-for-Depth-prediction
 # already cloned without --recursive:
 git submodule update --init
 
